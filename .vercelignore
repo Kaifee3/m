@@ -1,0 +1,9 @@
+node_modules
+.git
+.vscode
+src/**
+public/images/**
+public/videos/**
+*.log
+.env
+.env.local
